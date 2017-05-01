@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyCalc</string>
+
+    <string name="buttonOne">1</string>
+    <string name="buttonTwo">2</string>
+    <string name="buttonThree">3</string>
+    <string name="buttonFour">4</string>
+    <string name="buttonFive">5</string>
+    <string name="buttonSix">6</string>
+    <string name="buttonSeven">7</string>
+    <string name="buttonEight">8</string>
+    <string name="buttonNine">9</string>
+    <string name="buttonTen">0</string>
+    <string name="buttonAddition">+</string>
+    <string name="buttonSubtraction">-</string>
+    <string name="buttonMultiplication">*</string>
+    <string name="buttonDivision">/</string>
+    <string name="buttonEqual">=</string>
+    <string name="buttonClear">C</string>
+</resources>
